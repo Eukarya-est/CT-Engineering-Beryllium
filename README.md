@@ -41,7 +41,7 @@ The Step strings changer for Auto test feature files' steps
 ```shell
     python3 string-changer.py 
 ```
-    or
+OR
 ```shell
     chmod +x string-changer.py
     starinfo-txt.py 
@@ -50,3 +50,4 @@ The Step strings changer for Auto test feature files' steps
 6. Check the result file； 対象ファイルの中身を見てを結果を確認する。
 
 ※ It has some differences from real work thing.
+
