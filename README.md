@@ -29,11 +29,11 @@ The Step strings changer for Auto test feature files' steps
     - Example
         - "../Squish-System/tests/srs/"
 
-3. Input a 'string(s) in file(s)' to 'config/old_string.py'; 変える前の文句(ファイルの中身に既に入ってる文句)を「config/old_string.py」に入れる。
+3. Input a 'file(s) name' to 'config/target_list.csv'; 文句を変える「対象ファイルの名前」を「config/target_list.csv」に入れる。
     - Example
         - "Scan Session using Service Generic Scan protocol in 'Service' protocol category"
 
-4. Input a 'string(s) to be changed' to 'config/new_string.py'; 変えた後の文句を「config/new_string.py」に入れる。
+4. Input a 'string(s) in file(s)' to 'config/old_string.py'; 変換前の文句（ファイルの中身に既に入ってる文句）を「config/old_string.py」に入れる。
     - Example
         - "Scan Session using Service Generic Scan protocol in 'Reference Service' protocol category"
 
@@ -50,4 +50,5 @@ OR
 6. Check the result file； 対象ファイルの中身を見てを結果を確認する。
 
 ※ It has some differences from real work thing.
+
 
