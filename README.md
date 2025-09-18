@@ -47,8 +47,9 @@ OR
     starinfo-txt.py 
 ```
 
-6. Check the result file； 対象ファイルの中身を見てを結果を確認する。
+6. Check the files； 対象ファイルの中身を見てを結果を確認する。
 
 ※ It has some differences from real work thing.
+
 
 
